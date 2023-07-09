@@ -1,0 +1,1 @@
+# c-ve-vsc-uygulama
